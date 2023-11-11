@@ -1,0 +1,76 @@
+{
+	"recipes": [
+	{
+		"id": "1",
+		"title": "Veggie Carbonara",
+		"image": "veggie_carbonara.jpg",
+		"time": 20,
+		"description": "A vegetarian twist on the classic Italian pasta dish with eggs, cheese, and vegetarian bacon.",
+		"vegan": false
+	},
+	{
+        "id": "2",
+        "title": "Spaghetti Aglio e Olio",
+        "image": "spaghetti_aglio_e_olio.jpg",
+        "time": 15,
+        "description": "A simple and delicious Italian pasta dish with garlic, olive oil, and red pepper flakes.",
+        "vegan": true
+    },
+    {
+        "id": "3",
+        "title": "Checkin Alfredo",
+        "image": "chicken_alfredo.jpg",
+        "time": 30,
+        "description": "A creamy and comforting pasta dish with chicken, Alfredo sauce, and Permesan cheese.",
+        "vegan": false
+    },
+    {
+        "id": "4",
+        "title": "Mac and Cheese",
+        "image": "mac_and_cheese.jpg",
+        "time": 25,
+        "description": "A classic comfort food made with macaroni noodles, cheese sauce, and bread crumbs.",
+        "vegan": false
+    },
+    {
+        "id": "5",
+        "title": "Lasagna",
+        "image": "lasagna.jpg",
+        "time": 45,
+        "description": "A layered pasta dish with meat, cheese, and tomato sauce.",
+        "vegan": false
+    },
+    {
+        "id": "6",
+        "title": "Pad Thai",
+        "image": "pad_thai.jpg",
+        "time": 30,
+        "description": "A stir-fried rice noodles with shrimp, chicken, or tofu, peanuts, and a sweet and savory sauce.",
+        "vegan": true
+    },
+    {
+        "id": "7",
+        "title": "Chicken Tikka Masala",
+        "image": "chicken_tikka_masala.jpg",
+        "time": 45,
+        "description": "A creamy and flavorful Indian dish with chicken, tikka, masala sauce, and basmati rice.",
+        "vegan": false
+    },
+    {
+        "id": "8",
+        "title": "Beef Bourguignon",
+        "image": "beef_bourguignon.jpg",
+        "time": 2,
+        "description": "A slow-cooked French stew with beef, red wine, and vegetables.",
+        "vegan": false
+    },
+    {
+        "id": "9",
+        "title": "Chicken Soup",
+        "image": "chicken_soup.jpg",
+        "time": 1,
+        "description": "A classic comfort food made with chicken, broth, and vegetables.",
+        "vegan": false
+    }
+	]
+}
