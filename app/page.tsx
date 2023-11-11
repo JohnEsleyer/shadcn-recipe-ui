@@ -22,6 +22,9 @@ interface Recipe {
 
 async function getRecipes(): Promise<Recipe[]>{
   const result = await fetch('http://localhost:4000/recipes')
+  
+  // delay response
+  await new Promise((resolve) => setTimeout(resolve, 3000))
 
   return result.json()
 }
@@ -29,6 +32,7 @@ async function getRecipes(): Promise<Recipe[]>{
 export default async function Home(){
   
   const recipes = await getRecipes()
+
 
   return (
     <main>
